@@ -39,7 +39,7 @@ This api demo is running at:
 
 ### store
     
-*update one note with provided id*
+*create note with title and text*
 
 **url:**
 /notes/store.php
@@ -74,7 +74,7 @@ This api demo is running at:
 
 ### delete
     
-*update one note with provided id*
+*delete one note with provided id*
 
 **method:** GET
 
