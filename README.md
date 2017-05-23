@@ -14,15 +14,15 @@ Note object has these properties:
 
 API returns json representation of objects / arrays.
 
-##API demo
+## API demo
 
 This api demo is running at: 
 
 *http://notes.webpixels.sk/*
 
-##API requests
+## API requests
 
-###index
+### index
     
 *return array of all notes*
 
@@ -37,7 +37,7 @@ This api demo is running at:
 - order_by 
 - order_type (asc | desc)
 
-###store
+### store
     
 *update one note with provided id*
 
@@ -52,7 +52,7 @@ This api demo is running at:
 
 
 
-###show
+### show
     
 *return one note with provided id*
 
@@ -60,7 +60,7 @@ This api demo is running at:
 
 **url:** /notes/show.php?id=
 
-###update
+### update
     
 *update one note with provided id*
 
@@ -72,7 +72,7 @@ This api demo is running at:
 - title 
 - text
 
-###delete
+### delete
     
 *update one note with provided id*
 
